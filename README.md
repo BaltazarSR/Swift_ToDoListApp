@@ -165,3 +165,8 @@ This project provided hands-on experience with:
 - Persistent storage strategies
 - Common UI/UX patterns in iOS applications
 
+<img width="295" height="572" alt="Screenshot 2025-11-06 at 1 06 40 p m" src="https://github.com/user-attachments/assets/49159e93-a51a-46bc-8177-738b56c4ccf2" />
+<img width="303" height="575" alt="Screenshot 2025-11-06 at 1 07 04 p m" src="https://github.com/user-attachments/assets/a7000d00-8e2d-4228-aa82-39c2781c978b" />
+<img width="293" height="571" alt="Screenshot 2025-11-06 at 1 08 15 p m" src="https://github.com/user-attachments/assets/a361ca01-a877-425b-a9f0-487559323092" />
+<img width="280" height="557" alt="Screenshot 2025-11-06 at 1 08 19 p m" src="https://github.com/user-attachments/assets/e1b33e33-b99a-498f-93ad-2eb36ed89507" />
+<img width="296" height="568" alt="Screenshot 2025-11-06 at 1 08 23 p m" src="https://github.com/user-attachments/assets/5f5f45e4-97bc-4e6d-a06b-3eb6c4e6386e" />
